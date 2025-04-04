@@ -25,7 +25,7 @@ import java.util.Map;
     Link: https://leetcode.com/problems/two-sum/description/
  */
 
-public class TwoSumProblem {
+public class TwoSumProblemEasy {
 
     public static void main(String[] args) {
         int[] nums = {3,2,4};
